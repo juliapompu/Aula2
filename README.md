@@ -1,3 +1,4 @@
 # Aula2
-## Subtitulo grátis 
+## Subitítulo
+
 Repositorio para a aula de github.
